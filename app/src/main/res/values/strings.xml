@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">No Vpn Notification</string>
+    <string name="app_desc">Remove the annoy \"VPN activated\" notification for oplus systems. Optionally, select SystemUI if you would like to remove the VPN footer from the QS panel.</string>
+</resources>
